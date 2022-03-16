@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Elonbot",
+        "token": "process.env.TOKEN",
+        "adminIDs": "282915090729009162"
+    }
+]
